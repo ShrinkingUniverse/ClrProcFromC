@@ -1,0 +1,6 @@
+C:\Users\tatiana.grigorieva\source\repos\TestClrProcedures\bin\Debug\TestClrProcedures.dll
+C:\Users\tatiana.grigorieva\source\repos\TestClrProcedures\bin\Debug\TestClrProcedures.pdb
+C:\Users\tatiana.grigorieva\source\repos\TestClrProcedures\obj\Debug\TestClrProcedures.csproj.AssemblyReference.cache
+C:\Users\tatiana.grigorieva\source\repos\TestClrProcedures\obj\Debug\TestClrProcedures.csproj.CoreCompileInputs.cache
+C:\Users\tatiana.grigorieva\source\repos\TestClrProcedures\obj\Debug\TestClrProcedures.dll
+C:\Users\tatiana.grigorieva\source\repos\TestClrProcedures\obj\Debug\TestClrProcedures.pdb
